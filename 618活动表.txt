@@ -1,0 +1,58 @@
+htbc_ods.desensitization_order
+htbc_ods.activity_invite_user
+
+mfront_distribution_recruit_pageOnload
+{"offset":109513737,
+ "context":{
+	"unique_id":"1dce6ad2-0365-b23d-afe1-c5b0ce1565f4-1592206889741",
+	"distributionBusiness":{
+		"itemId":260,
+		"adtag":10068795,
+		"activityId":13250,
+		"agentuuid":"1dce6ad2-0365-b23d-afe1-c5b0ce1565f4-1592206889741",
+		"userId":"30001127",
+		"url":"https://fe-fission.testing.hetao101.com/landing?inviterId=30001117&distributorId=30001038&ad_uuid=76c0b9ed-29fb-498e-ad69-40a6c9c2fdb8&invite_ad=invite_poster17_42"
+	},
+ 	"userIdentity":1
+ },
+ "client_ip":"223.104.3.199",
+ "event_time":1592316614601,
+ "user_agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.12(0x17000c30) NetType/4G Language/zh_CN"}
+
+
+mfront_distribution_recruit_rankingList
+{"offset":466127060,
+ "context":{
+	"unique_id":"d5da767f-ea35-31fb-b17f-df27a708b3d4-1591933148554",
+	"distributionBusiness":{
+		"itemId":260,
+		"adtag":10068795,
+		"activityId":13250,
+		"agentuuid":"d5da767f-ea35-31fb-b17f-df27a708b3d4-1591933148554",
+		"userId":"30000920",
+		"url":"https://fe-fission.testing.hetao101.com/detail?distributorId=30000920"
+	},
+ "position":"rankingListActivity"
+ },
+ "client_ip":"117.100.154.193",
+ "event_time":1592313933098,
+ "user_agent":"Mozilla/5.0 (Linux; Android 9; PADM00 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/77.0.3865.120 MQQBrowser/6.2 TBS/045224 Mobile Safari/537.36 MMWEBID/8262 MicroMessenger/7.0.15.1680(0x27000F3C) Process/tools WeChat/arm32 NetType/WIFI Language/zh_CN ABI/arm64"}
+
+
+{"offset":622997819,
+ "context":{
+	"unique_id":"be146146-7ad6-5345-8681-c3eec43dd040-1592227784145",
+	"distributionBusiness":{
+		"itemId":260,
+		"adtag":10068795,
+		"activityId":13250,
+		"agentuuid":"be146146-7ad6-5345-8681-c3eec43dd040-1592227784145",
+		"userId":"30001134",
+		"url":"https://fe-fission.testing.hetao101.com/detail?inviterId=30000920&distributorId=30000920&ad_uuid=c78b9ed1-900b-4238-ab9c-12e355a26a9b&invite_ad=invite_poster17_42"
+	},
+	"interval":"550ms",
+	"type":"hotzone"
+ },
+ "client_ip":"117.136.0.172",
+ "event_time":1592314356259,
+ "user_agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.12(0x17000c31) NetType/4G Language/zh_CN"}
